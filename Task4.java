@@ -40,6 +40,7 @@ public class Task4 {
     }
 
     private static char getFirstChar(String firstName) {
+
         return firstName.charAt(0);
     }
 }
